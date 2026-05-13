@@ -127,8 +127,9 @@ My job is to make sure none of that happens.
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShivanshDas&label=Profile+Views&color=6E40C9&style=for-the-badge"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
+
 ---
 
 ## Currently
