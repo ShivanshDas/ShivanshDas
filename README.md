@@ -127,12 +127,12 @@ My job is to make sure none of that happens.
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivanshDas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshDas&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivanshDas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshDas&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://[github-readme-streak-stats.herokuapp.com](https://streak-stats.demolab.com/?user=ShivanshDas&theme=tokyonight&hide_border=true)/?user=ShivanshDas&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=ShivanshDas&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
