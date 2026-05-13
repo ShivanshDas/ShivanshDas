@@ -13,7 +13,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Role-DevRel%20Engineer-6E40C9?style=flat-square"/>
   <img src="https://img.shields.io/badge/Role-Product%20Manager-302b63?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Company-RunAnywhere-black?style=flat-square"/>
   <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open%20To-Opportunities-brightgreen?style=flat-square"/>
 </div>
@@ -134,7 +133,7 @@ My job is to make sure none of that happens.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshDas&theme=tokyonight&hide_border=true"/>
+  <img src="https://[github-readme-streak-stats.herokuapp.com](https://streak-stats.demolab.com/?user=ShivanshDas&theme=tokyonight&hide_border=true)/?user=ShivanshDas&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
