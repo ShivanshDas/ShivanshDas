@@ -19,21 +19,20 @@
 
 ---
 
-## `$ whoami`
 
 ```yaml
-name       : Shivansh Das
-role       : DevRel Engineer + Product Manager
-focus      :
+Name       : Shivansh Das
+Role       : DevRel Engineer + Product Manager
+Focus      :
   - Developer Experience (DX)
   - Community Building & Developer Advocacy
   - Internal tooling & automation
   - Product strategy for developer-first companies
-currently  :
+Currently  :
   - Building automation tools for engineering teams
   - Targeting DevRel PM roles at YC-backed companies
   - Writing about developer workflows and productivity
-superpower : Bridging the gap between engineering and community
+Superpower : Bridging the gap between engineering and community
 ```
 
 ---
@@ -44,10 +43,10 @@ superpower : Bridging the gap between engineering and community
 > I spend my time understanding developer pain, turning it into tools,
 > and communicating those tools in ways that actually land.
 
-- **Community first** — I think about developer adoption before I write a single line of code
-- **Product thinking** — every tool I build starts with a user problem, not a tech idea
-- **Ship fast** — I prototype, get feedback, and iterate — no over-engineering
-- **Document everything** — good DX is 50% product, 50% communication
+- **Community first** - I think about developer adoption before I write a single line of code
+- **Product thinking** - every tool I build starts with a user problem, not a tech idea
+- **Ship fast** - I prototype, get feedback, and iterate, no over-engineering
+- **Document everything** - good DX is 50% product, 50% communication
 
 ---
 
@@ -118,9 +117,9 @@ My job is to make sure none of that happens.
 
 ## PM Thinking
 
-- 🎯 **Outcome over output** — I care about adoption metrics, not lines of code
-- 🗣️ **Talk to users first** — every feature starts with a conversation
-- 📉 **Kill features that don't work** — no ego around shipping or removing
+- 🎯 **Outcome over output** - I care about adoption metrics, not lines of code
+- 🗣️ **Talk to users first** - every feature starts with a conversation
+- 📉 **Kill features that don't work** - no ego around shipping or removing
 - 📣 **Communicate like a PM, build like an engineer**
 
 ---
@@ -140,7 +139,7 @@ My job is to make sure none of that happens.
 
 ## Currently
 
-- 🔨 Shipping automation tools for developer teams at **RunAnywhere**
+- 🔨 Shipping automation tools for developer teams
 - 📖 Learning product strategy, go-to-market, and developer community playbooks
 - ✍️ Building a writing habit around developer tools and DX
 - 🎯 Looking for **DevRel Engineer** or **PM** roles at developer-first companies
@@ -155,7 +154,6 @@ My job is to make sure none of that happens.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-das)
 [![Email](https://img.shields.io/badge/Gmail-shivanshdas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshdas@gmail.com)
-[![RunAnywhere](https://img.shields.io/badge/RunAnywhere-runanywhere.ai-black?style=for-the-badge)](https://runanywhere.ai)
 
 </div>
 
