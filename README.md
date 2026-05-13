@@ -124,17 +124,11 @@ My job is to make sure none of that happens.
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivanshDas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshDas&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://komarev.com/ghpvc/?username=ShivanshDas&label=Profile+Views&color=6E40C9&style=for-the-badge"/>
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShivanshDas&theme=tokyonight&hide_border=true"/>
-</div>
-
 ---
 
 ## Currently
