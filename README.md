@@ -30,7 +30,7 @@ Focus      :
   - Product strategy for developer-first companies
 Currently  :
   - Building automation tools for engineering teams
-  - Targeting DevRel PM roles at YC-backed companies
+  - Targeting DevRel PM roles at YC backed companies
   - Writing about developer workflows and productivity
 Superpower : Bridging the gap between engineering and community
 ```
